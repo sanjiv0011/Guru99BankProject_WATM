@@ -1,0 +1,154 @@
+13:02:08.555 [main] INFO  com.jkl.testCases.TC_Home - 2
+13:02:08.625 [main] INFO  com.jkl.testCases.TC_Home - 3
+13:02:11.621 [main] INFO  com.jkl.testCases.TC_Home - Chrome driver selected
+13:02:12.113 [main] INFO  com.jkl.testCases.TC_Home - Login page started
+13:02:12.157 [main] INFO  com.jkl.testCases.TC_Home - Maximize the window
+13:02:12.293 [main] INFO  com.jkl.testCases.TC_Home - Login user Email: sanjiv.koiri@jklgroup.in  and Password: Sanjiv@123456
+13:02:12.294 [main] INFO  com.jkl.pageObject.PO_LoginPage - Method called Login: AdminLogin
+13:02:12.421 [main] INFO  com.jkl.Main.pageObject.PO_Main_HomePage - Method called: AdminLogout
+13:02:12.434 [main] INFO  com.jkl.Main.pageObject.PO_Main_HomePage - Logout Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Dashboard']"}
+  (Session info: chrome=125.0.6422.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1f06447a6ee7b8cdae962efa178397db, findElement {using=xpath, value=//span[normalize-space()='Dashboard']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.113, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\User\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49635}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49635/devtoo..., se:cdpVersion: 125.0.6422.113, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f06447a6ee7b8cdae962efa178397db
+13:02:12.739 [main] INFO  com.jkl.testCases.TC_Home - Driver shutdown
+13:03:50.986 [main] INFO  com.jkl.testCases.TC_Home - Base class started...
+13:03:50.996 [main] INFO  com.jkl.testCases.TC_Home - 1
+13:03:50.997 [main] INFO  com.jkl.testCases.TC_Home - 2
+13:03:51.016 [main] INFO  com.jkl.testCases.TC_Home - 3
+13:05:23.160 [main] INFO  com.jkl.testCases.TC_Home - Base class started...
+13:05:23.172 [main] INFO  com.jkl.testCases.TC_Home - 1
+13:05:23.173 [main] INFO  com.jkl.testCases.TC_Home - 2
+13:05:23.186 [main] INFO  com.jkl.testCases.TC_Home - 3
+13:05:26.000 [main] INFO  com.jkl.testCases.TC_Home - Chrome driver selected
+13:05:26.580 [main] INFO  com.jkl.testCases.TC_Home - Login page started
+13:05:26.629 [main] INFO  com.jkl.testCases.TC_Home - Maximize the window
+13:05:26.732 [main] INFO  com.jkl.testCases.TC_Home - Login user Email: sanjiv.koiri@jklgroup.in  and Password: Sanjiv@123456
+13:05:26.732 [main] INFO  com.jkl.pageObject.PO_LoginPage - Method called Login: AdminLogin
+13:05:26.834 [main] INFO  com.jkl.Main.pageObject.PO_Main_HomePage - Method called: AdminLogout
+13:05:26.847 [main] INFO  com.jkl.Main.pageObject.PO_Main_HomePage - Logout Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Dashboard']"}
+  (Session info: chrome=125.0.6422.113)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cf2b5b4e7fe601d8a681d67fb46cd01a, findElement {using=xpath, value=//span[normalize-space()='Dashboard']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.113, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9988}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: cf2b5b4e7fe601d8a681d67fb46cd01a
+13:05:26.954 [main] INFO  com.jkl.testCases.TC_Home - Driver shutdown
+15:44:11.341 [main] INFO  com.jkl.testCases.TC_Home - Base class started...
+15:44:11.352 [main] INFO  com.jkl.testCases.TC_Home - 1
+15:44:11.352 [main] INFO  com.jkl.testCases.TC_Home - 2
+15:44:11.364 [main] INFO  com.jkl.testCases.TC_Home - 3
+15:45:25.439 [main] INFO  com.jkl.testCases.TC_Home - Base class started...
+15:45:25.445 [main] INFO  com.jkl.testCases.TC_Home - 1
+15:45:25.446 [main] INFO  com.jkl.testCases.TC_Home - 2
+15:45:25.459 [main] INFO  com.jkl.testCases.TC_Home - 3
+15:49:02.339 [main] INFO  com.jkl.testCases.TC_Home - Base class started...
+15:49:02.345 [main] INFO  com.jkl.testCases.TC_Home - 1
+15:49:02.345 [main] INFO  com.jkl.testCases.TC_Home - 2
+15:49:02.358 [main] INFO  com.jkl.testCases.TC_Home - 3
+15:52:16.384 [main] INFO  com.jkl.testCases.TC_Home - Base class started...
+15:52:16.394 [main] INFO  com.jkl.testCases.TC_Home - 1
+15:52:16.395 [main] INFO  com.jkl.testCases.TC_Home - 2
+15:52:16.406 [main] INFO  com.jkl.testCases.TC_Home - 3
+15:52:18.626 [main] INFO  com.jkl.testCases.TC_Home - Chrome driver selected
+15:52:19.043 [main] INFO  com.jkl.testCases.TC_Home - Login page started
+15:52:19.053 [main] INFO  com.jkl.testCases.TC_Home - Maximize the window
+15:52:19.145 [main] INFO  com.jkl.testCases.TC_Home - Login user Email: sanjiv.koiri@jklgroup.in  and Password: Sanjiv@123456
+15:52:19.145 [main] INFO  com.jkl.pageObject.PO_LoginPage - Method called Login: AdminLogin
+15:52:19.280 [main] INFO  com.jkl.Main.pageObject.PO_Main_HomePage - Method called: AdminLogout
+15:52:19.291 [main] INFO  com.jkl.Main.pageObject.PO_Main_HomePage - Logout Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Dashboard']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ff3e2a7e3a101bfa40dda65c7c7281f1, findElement {using=xpath, value=//span[normalize-space()='Dashboard']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9222}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ff3e2a7e3a101bfa40dda65c7c7281f1
+15:52:19.388 [main] INFO  com.jkl.testCases.TC_Home - Driver shutdown
+18:16:58.989 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+18:16:58.995 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+18:16:58.996 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+18:16:59.011 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+18:17:02.580 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+18:17:04.803 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+18:17:04.816 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+18:17:04.900 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: sanjiv.koiri@jklgroup.in  and Password: Sanjiv@123456
+18:17:05.225 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+18:18:01.784 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+18:18:01.792 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+18:18:01.792 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+18:18:01.805 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+18:18:04.314 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+18:18:05.977 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+18:18:05.987 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+18:18:06.079 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+18:18:06.080 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+18:18:06.762 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+18:18:07.327 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+18:18:07.651 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+18:18:38.290 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Login exception message: Expected condition failed: waiting for text ('Dashboard') to be present in element found by By.tagName: body (tried for 30 second(s) with 500 milliseconds interval)
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9222}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 36cc21e4e29221ea9f1c001835ab7c47
+18:18:38.408 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+18:25:19.001 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+18:25:19.009 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+18:25:19.009 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+18:25:19.021 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+18:25:21.631 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+18:25:22.690 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+18:25:22.716 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+18:25:22.825 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+18:25:22.826 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+18:25:24.390 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+18:25:24.967 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+18:25:25.357 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+18:25:25.578 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - !!!LOGIN FAILED!!!
+18:25:25.675 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+18:29:05.749 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+18:29:05.757 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+18:29:05.757 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+18:29:05.767 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+18:29:08.154 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+18:29:09.932 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+18:29:09.967 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+18:29:10.230 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+18:29:10.230 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+18:29:10.998 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+18:29:11.579 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+18:29:11.916 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+18:29:12.140 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - !!!LOGIN FAILED!!!
+18:29:12.236 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+18:32:00.228 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+18:32:00.235 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+18:32:00.235 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+18:32:00.247 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+18:32:02.580 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+18:32:04.537 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+18:32:04.547 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+18:32:04.637 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+18:32:04.638 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+18:32:05.274 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+18:32:05.852 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+18:32:07.165 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+18:32:07.446 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+18:32:07.526 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+18:32:07.538 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Logout Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Dashboard']"}
+  (Session info: chrome=125.0.6422.142)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c6809d1a4a701f697012840506d7db7a, findElement {using=xpath, value=//span[normalize-space()='Dashboard']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9222}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c6809d1a4a701f697012840506d7db7a
+18:32:07.668 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
