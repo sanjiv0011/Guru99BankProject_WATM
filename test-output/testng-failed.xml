@@ -11,10 +11,10 @@
       <class name="com.guru99bankProject.testCases.TC_Home">
         <methods>
           <include name="Setup"/>
-          <include name="test_HomePageElement"/>
           <include name="Login"/>
           <include name="Teardown"/>
           <include name="Logout"/>
+          <include name="test_HomePageMenus"/>
         </methods>
       </class> <!-- com.guru99bankProject.testCases.TC_Home -->
     </classes>

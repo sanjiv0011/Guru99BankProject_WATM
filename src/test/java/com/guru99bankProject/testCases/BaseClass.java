@@ -77,9 +77,9 @@ public class BaseClass {
 	        //option.addArguments("--incognito");
 	        //logger.info("3");
 	        
-//	        //TO USE CHOME DRIVER IN DEBUGGER MODE 
-//			option.setExperimentalOption("debuggerAddress", "localhost:9222");
-//			logger.info("3");
+	        //TO USE CHOME DRIVER IN DEBUGGER MODE 
+			option.setExperimentalOption("debuggerAddress", "localhost:9222");
+			logger.info("3");
 			
 	        //TO INITIALIZE CHROME DRIVER
 			driver = new ChromeDriver(option);
