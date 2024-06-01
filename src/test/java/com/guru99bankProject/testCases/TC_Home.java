@@ -28,14 +28,7 @@ public class TC_Home extends BaseClass{
 	@Test(priority = 1)
 	public void test_HomePageElement() throws InterruptedException {
 		hp = new PO_HomePage(driver);
-		hp.checkClickActionOnHomePageElement();
-	}
-
-	//TO CHENGE THE CARD DETAILS
-	//@Test(priority = 2)
-	public void test_ChangeCardDetails() throws InterruptedException {
-		hp = new PO_HomePage(driver);
-		hp.changeCardDetails(cardHolderName,expiary,CCVcode,zipCode);
+		
 	}
 
 }

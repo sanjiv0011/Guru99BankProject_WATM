@@ -152,3 +152,97 @@ Command: [c6809d1a4a701f697012840506d7db7a, findElement {using=xpath, value=//sp
 Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9222}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
 Session ID: c6809d1a4a701f697012840506d7db7a
 18:32:07.668 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+22:27:28.904 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+22:27:28.908 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+22:27:28.909 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+22:27:28.921 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+11:38:07.716 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+11:38:07.725 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+11:38:07.726 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+11:38:07.751 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+11:51:15.571 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+11:51:15.579 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+11:51:15.580 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+11:51:15.598 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
+11:51:25.062 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+11:51:44.253 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+11:51:44.740 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+11:51:46.008 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+11:51:46.008 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+11:51:48.094 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+11:51:48.790 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+11:51:54.005 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+11:51:54.435 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+11:51:54.813 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+11:51:54.913 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Logout Exception: no such element: Unable to locate element: {"method":"xpath","selector":"//span[normalize-space()='Dashboard']"}
+  (Session info: chrome=125.0.6422.141)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [81ffd07eb5904364c3e2e5f4914db631, findElement {using=xpath, value=//span[normalize-space()='Dashboard']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.141, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9222}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 81ffd07eb5904364c3e2e5f4914db631
+11:51:55.255 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+12:06:48.969 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+12:06:48.974 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+12:06:48.975 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+12:06:54.443 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+12:07:05.378 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+12:07:05.442 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+12:07:05.634 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+12:07:05.635 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+12:07:06.414 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+12:07:07.213 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+12:07:10.594 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+12:07:11.119 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+12:07:11.365 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+12:07:15.481 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+12:07:16.100 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Logout Exception: unexpected alert open: {Alert text : You Have Succesfully Logged Out!!}
+  (Session info: chrome=125.0.6422.141): You Have Succesfully Logged Out!!
+Build info: version: '4.11.0', revision: '040bc5406b'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8fda1ac901b3f9876e272dfe2ead3844, getPageSource {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.141, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712..., userDataDir: C:\Users\koiri\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52978}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52978/devtoo..., se:cdpVersion: 125.0.6422.141, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8fda1ac901b3f9876e272dfe2ead3844
+12:07:16.809 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+12:18:50.925 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+12:18:50.928 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+12:18:50.929 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+12:18:56.565 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+12:19:07.826 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+12:19:07.932 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+12:19:08.388 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+12:20:37.117 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+12:20:37.122 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+12:20:37.122 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+12:20:40.787 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+12:20:54.334 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+12:20:54.451 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+12:20:54.614 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+12:20:54.614 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+12:20:55.220 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+12:20:55.937 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+12:20:58.636 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+12:20:58.868 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+12:20:58.997 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+12:21:02.854 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+12:21:03.454 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+12:21:04.109 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
+12:24:17.470 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
+12:24:17.475 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
+12:24:17.475 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
+12:24:21.004 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
+12:24:33.715 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
+12:24:33.825 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
+12:24:34.010 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
+12:24:34.010 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+12:24:34.676 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+12:24:35.506 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+12:24:37.568 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+12:24:37.846 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+12:24:37.960 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+12:24:41.428 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+12:24:41.981 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+12:24:42.603 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
