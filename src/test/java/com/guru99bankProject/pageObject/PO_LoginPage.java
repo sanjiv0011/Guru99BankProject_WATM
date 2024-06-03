@@ -4,7 +4,6 @@ import java.time.Duration;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
@@ -14,7 +13,6 @@ import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
 import com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement;
@@ -109,6 +107,5 @@ public class PO_LoginPage extends ReUseAbleElement {
 		softAssert.assertAll();
 		return new PO_HomePage(driver);
 	}
-
 	
 }
