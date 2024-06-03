@@ -17,7 +17,6 @@ import org.testng.annotations.Parameters;
 import org.testng.asserts.SoftAssert;
 
 import com.github.javafaker.Faker;
-import com.guru99bankProject.Main.pageObject.PO_Main_HomePage;
 import com.guru99bankProject.pageObject.PO_HomePage;
 import com.guru99bankProject.pageObject.PO_LoginPage;
 import com.guru99bankProject.utilities.ReadConfigFiles;
@@ -30,7 +29,6 @@ public class BaseClass {
 	public static WebDriver driver;
 	public PO_HomePage hp;
 	public PO_LoginPage lp;
-	public PO_Main_HomePage m_hp;
 	public SoftAssert softAssert = new SoftAssert();
 	
 	//TO LOG THE MESSAGES ON THE CONSOLE AND LOG FILES BOTH
@@ -133,7 +131,7 @@ public class BaseClass {
 	@AfterClass()	
 	public void Logout(String loginUserType) throws InterruptedException {
 		if(loginUserType.equalsIgnoreCase("admin")) {
-			m_hp.AdminLogout();
+			
 		}else if(loginUserType.equalsIgnoreCase("user")) {
 			hp.UserLogout();
 		}

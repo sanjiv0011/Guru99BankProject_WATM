@@ -17,7 +17,6 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
 
-import com.guru99bankProject.Main.pageObject.PO_Main_HomePage;
 import com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement;
 
 public class PO_LoginPage extends ReUseAbleElement {
@@ -28,7 +27,6 @@ public class PO_LoginPage extends ReUseAbleElement {
 	public ReUseAbleElement ruae;
 	public WebDriverWait wait;
 	public Actions action;
-	public PO_Main_HomePage mhp;
 	public SoftAssert softAssert = new SoftAssert();
 	
 	public  PO_LoginPage(WebDriver driver)
@@ -111,34 +109,6 @@ public class PO_LoginPage extends ReUseAbleElement {
 		softAssert.assertAll();
 		return new PO_HomePage(driver);
 	}
-	
-//	//FOR ADMIN LOGIN
-//	public PO_Main_HomePage AdminLogin(String adminEmail,String adminPassword) throws InterruptedException {
-//		try {
-//			logger.info("Method called Login: AdminLogin");
-//			clickBtnSignIn();
-//			setUserName(adminEmail);
-//			setTextpassword(adminPassword);
-//			clickBtnsubmit();
-//			
-//			try {
-//				wait.until(ExpectedConditions.elementToBeClickable(tabDashboard));
-//				Thread.sleep(500);
-//				if(driver.getPageSource().contains("This Week")) {
-//					softAssert.assertTrue(true);
-//					logger.info("...LOGIN DONE...");
-//				} else {
-//					Assert.assertTrue(false);
-//					logger.info("!!!LOGIN FAILED!!!");
-//				}
-//			}catch(Exception e) {
-//				logger.info("Login exception message: "+e.getMessage());
-//				softAssert.assertEquals(driver.getPageSource().contains("This Week"),"To check the login");
-//			}
-//			
-//		}catch(Exception e) {}
-//		softAssert.assertAll();
-//		return new PO_Main_HomePage(driver);
-//	}
+
 	
 }
