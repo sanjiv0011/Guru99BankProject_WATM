@@ -20,8 +20,17 @@
 
 			<!--<class name="com.guru99bankProject.testCases.TC_Home" />-->
 
-			<class name="com.guru99bankProject.testCases.TC_AddNewCustomer" />
+			<!--<class name="com.guru99bankProject.testCases.TC_AddNewCustomer" />-->
 
+			<!--<class name="com.guru99bankProject.testCases.TC_EditCustomer" />-->
+
+			<!--<class name="com.guru99bankProject.testCases.TC_DeleteCustomer" />-->
+			
+			<!--<class name="com.guru99bankProject.testCases.TC_AddNewAccount" />-->
+			
+			<class name="com.guru99bankProject.testCases.TC_EditAccount" />
+			
+			
 		</classes>
 
 	</test> <!--

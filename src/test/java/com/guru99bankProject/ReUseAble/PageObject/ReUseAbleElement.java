@@ -37,16 +37,59 @@ public class ReUseAbleElement {
 
 	// ========START=======Actions Elements===================//
 
+	// CUSTOMER ID[Guru99]
+	@FindBy(xpath = "//input[@name='cusid']")
+	@CacheLookup
+	WebElement f_customerId;
+
+	public void setCustomerId(String customerId) throws InterruptedException {
+		wait.until(ExpectedConditions.elementToBeClickable(f_customerId));
+		f_customerId.sendKeys(Keys.CONTROL, "a");
+		f_customerId.sendKeys(Keys.DELETE);
+		Thread.sleep(200);
+		f_customerId.sendKeys(customerId);
+		logger.info("Enteterd customerId");
+		Thread.sleep(200);
+	}
+
+	// SUBMIT BUTTON[Guru99]
+	@FindBy(xpath = "//input[@name='AccSubmit']")
+	@CacheLookup
+	WebElement btn_submit;
+
+	public void clickOnBtnSubmit() throws InterruptedException {
+		btn_submit.click();
+		logger.info("clicked Submit");
+		Thread.sleep(200);
+	}
+
+	// Account number[Guru99]
+	@FindBy(xpath = "//input[@name='accountno']")
+	@CacheLookup
+	WebElement f_accountNumber;
+
+	public void setAccountNumber(String accountNumber) throws InterruptedException {
+		wait.until(ExpectedConditions.elementToBeClickable(f_accountNumber));
+		f_accountNumber.sendKeys(Keys.CONTROL, "a");
+		f_accountNumber.sendKeys(Keys.DELETE);
+		Thread.sleep(200);
+		f_accountNumber.sendKeys(accountNumber);
+		logger.info("Enteterd accountNumber");
+		Thread.sleep(200);
+	}
+	
+	
+
 	// P360 PAGE NUMBER BASE ADDRESS
 	public boolean clickOnBtnPageNumber_RU(WebDriver dirver) throws InterruptedException {
 		boolean flag = false;
-		
+
 		String baseAddress_PageNumber = "//span[contains(@class,'MuiTouchRipple-root')]";
 		List<WebElement> btnPageNumber_RU = driver.findElements(By.xpath(baseAddress_PageNumber));
-		
+
 		try {
-			
-			for(WebElement pageNumber : btnPageNumber_RU) {
+
+			for (WebElement pageNumber : btnPageNumber_RU) {
 				btnContinue_RU.click();
 				Thread.sleep(1000);
 				flag = true;

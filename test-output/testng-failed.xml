@@ -8,7 +8,7 @@
   </listeners>
   <test thread-count="1" name="Guru99BankProject(failed)">
     <classes>
-      <class name="com.guru99bankProject.testCases.TC_AddNewCustomer">
+      <class name="com.guru99bankProject.testCases.TC_EditAccount">
         <methods>
           <include name="Setup"/>
           <include name="test_AddNewCustomer"/>
@@ -16,7 +16,7 @@
           <include name="Teardown"/>
           <include name="Logout"/>
         </methods>
-      </class> <!-- com.guru99bankProject.testCases.TC_AddNewCustomer -->
+      </class> <!-- com.guru99bankProject.testCases.TC_EditAccount -->
     </classes>
   </test> <!-- Guru99BankProject(failed) -->
 </suite> <!-- Failed suite [Suite] -->

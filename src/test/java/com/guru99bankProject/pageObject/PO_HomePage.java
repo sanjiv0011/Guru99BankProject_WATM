@@ -96,7 +96,7 @@ public class PO_HomePage extends ReUseAbleElement {
 		logger.info("Clicked on the menuDeleteCustomer");
 	}
 
-	@FindBy(xpath = "//a[text()='New Account']")
+	@FindBy(xpath = "//*[text()='New Account']")
 	@CacheLookup
 	WebElement menuNewAccount;
 

@@ -1,302 +1,134 @@
-09:52:07.469 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-09:52:07.510 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-09:52:07.512 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-09:52:07.527 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-09:52:11.299 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-09:52:13.483 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-09:52:13.491 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-09:52:13.566 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-09:52:13.567 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-09:52:14.243 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-09:52:14.843 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-09:52:17.219 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-09:52:17.735 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-09:52:17.798 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: BankMenuTabsTesting
-09:52:20.707 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuManager
-09:52:23.102 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-09:52:25.590 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-09:52:31.104 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-09:52:33.022 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Logout Exception: no such alert
-  (Session info: chrome=125.0.6422.142)
-Build info: version: '4.11.0', revision: '040bc5406b'
-System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.2.1'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [2b1c2f25d77c98d6549cf5f9a280a707, getAlertText {}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 125.0.6422.142, chrome: {chromedriverVersion: 125.0.6422.141 (4b1e8393712...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:9222}, pageLoadStrategy: normal, platformName: any, proxy: Proxy(), setWindowRect: false, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 2b1c2f25d77c98d6549cf5f9a280a707
-09:52:33.156 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-10:13:25.245 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-10:13:25.261 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-10:13:25.264 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-10:13:25.284 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-10:13:28.751 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-10:13:32.313 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-10:13:32.327 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-10:13:32.450 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-10:13:32.451 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-10:13:32.916 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-10:13:33.476 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-10:13:33.761 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-10:13:33.996 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - !!!LOGIN FAILED!!!
-10:13:34.152 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-10:13:49.853 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-10:13:49.863 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-10:13:49.864 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-10:13:49.882 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-10:13:53.236 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-10:13:54.355 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-10:13:54.384 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-10:13:54.479 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-10:13:54.480 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-10:13:54.874 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-10:13:55.398 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-10:13:59.399 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-10:13:59.625 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-10:13:59.725 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: BankMenuTabsTesting
-10:14:02.244 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuManager
-10:14:05.661 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-10:14:09.429 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditCustomer
-10:14:12.536 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteCustomer
-10:14:16.254 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuCustomisedStatement
-10:14:19.924 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuMiniStatement
-10:14:23.034 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
-10:14:26.692 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditAccount
-10:14:30.646 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
-10:14:30.681 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-10:14:34.378 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-10:14:34.909 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-10:14:34.985 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-10:19:34.985 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-10:19:34.995 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-10:19:34.996 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-10:19:35.011 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-10:19:37.559 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-10:19:38.088 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-10:19:38.099 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-10:19:38.195 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-10:19:38.196 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-10:19:38.625 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-10:19:39.193 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-10:19:40.664 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-10:19:40.884 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-10:19:40.921 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: BankMenuTabsTesting
-10:19:43.431 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuManager
-10:19:46.060 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-10:19:48.968 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditCustomer
-10:19:52.556 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteCustomer
-10:19:55.360 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuCustomisedStatement
-10:19:59.106 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuMiniStatement
-10:20:02.580 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
-10:20:05.422 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditAccount
-10:20:09.012 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
-10:20:09.078 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-10:20:12.684 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-10:20:13.244 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-10:20:13.379 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-11:07:57.388 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-11:07:57.399 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-11:07:57.399 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-11:07:57.414 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-11:08:00.482 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-11:08:02.124 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-11:08:02.137 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-11:08:02.213 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-11:08:02.213 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-11:08:02.655 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-11:08:03.189 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-11:08:04.922 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-11:08:05.134 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-11:08:05.170 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: BankMenuTabsTesting
-11:08:07.737 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuManager
-11:08:11.712 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-11:08:14.991 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditCustomer
-11:08:19.864 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteCustomer
-11:08:23.015 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuCustomisedStatement
-11:08:26.798 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuMiniStatement
-11:08:32.554 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
-11:08:36.462 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditAccount
-11:08:40.413 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
-11:08:40.467 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-11:08:43.612 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-11:08:44.133 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-11:08:44.212 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-11:10:28.382 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-11:10:28.388 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-11:10:28.388 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-11:10:28.401 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-11:10:30.662 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-11:10:35.819 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-11:10:35.834 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-11:10:35.905 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-11:10:35.937 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: BankMenuTabsTesting
-11:11:06.657 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-12:03:19.360 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-12:03:19.369 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-12:03:19.369 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-12:03:19.382 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-12:03:22.022 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-12:03:23.224 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-12:03:59.514 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-12:03:59.521 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-12:03:59.521 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-12:03:59.532 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-12:04:01.688 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-12:04:02.213 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-12:04:02.222 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-12:04:02.309 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-12:04:02.309 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-12:04:02.694 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-12:04:03.249 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-12:04:04.303 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-12:04:04.520 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-12:04:04.568 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: BankMenuTabsTesting
-12:04:07.108 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuManager
-12:04:10.628 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-12:04:13.822 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditCustomer
-12:04:17.609 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteCustomer
-12:04:20.783 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuCustomisedStatement
-12:04:24.605 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuMiniStatement
-12:04:28.365 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
-12:04:31.561 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditAccount
-12:04:35.650 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
-12:04:35.713 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-12:04:39.423 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-12:04:39.983 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-12:04:40.006 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login user Email: mngr574561 and Password: unUzejA
-12:04:40.006 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-12:04:41.078 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-12:04:41.637 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-12:04:42.364 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-12:04:42.583 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-12:04:42.607 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Method called:addNewCustomer
-12:05:13.292 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-12:05:16.604 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-12:05:17.134 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-12:05:17.213 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-12:14:07.486 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-12:14:07.494 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-12:14:07.494 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-12:14:07.505 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-12:14:34.629 [main] INFO  com.guru99bankProject.testCases.TC_Home - Base class started...
-12:14:34.636 [main] INFO  com.guru99bankProject.testCases.TC_Home - 1
-12:14:34.636 [main] INFO  com.guru99bankProject.testCases.TC_Home - 2
-12:14:34.647 [main] INFO  com.guru99bankProject.testCases.TC_Home - 3
-12:14:37.177 [main] INFO  com.guru99bankProject.testCases.TC_Home - Chrome driver selected
-12:14:38.352 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login page started
-12:14:38.364 [main] INFO  com.guru99bankProject.testCases.TC_Home - Maximize the window
-12:14:38.447 [main] INFO  com.guru99bankProject.testCases.TC_Home - Login user Email: mngr574561 and Password: unUzejA
-12:14:38.448 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-12:14:38.867 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-12:14:39.431 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-12:14:40.502 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-12:14:40.724 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-12:14:40.757 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: BankMenuTabsTesting
-12:14:43.248 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuManager
-12:14:46.691 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-12:14:49.817 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditCustomer
-12:14:53.612 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteCustomer
-12:14:56.834 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuCustomisedStatement
-12:15:00.641 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuMiniStatement
-12:15:04.396 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
-12:15:07.483 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditAccount
-12:15:11.355 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
-12:15:11.416 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-12:15:15.114 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-12:15:15.627 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-12:15:15.641 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login user Email: mngr574561 and Password: unUzejA
-12:15:15.642 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-12:15:16.700 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-12:15:17.212 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-12:15:17.916 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-12:15:18.150 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-12:15:18.170 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Method called:addNewCustomer
-12:15:48.805 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-12:15:52.126 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-12:15:52.646 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-12:15:52.717 [main] INFO  com.guru99bankProject.testCases.TC_Home - Driver shutdown
-12:18:59.249 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Base class started...
-12:18:59.256 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 1
-12:18:59.256 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 2
-12:18:59.268 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 3
-12:19:01.506 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Chrome driver selected
-12:19:02.602 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login page started
-12:19:02.621 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Maximize the window
-12:19:02.685 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login user Email: mngr574561 and Password: unUzejA
-12:19:02.685 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-12:19:03.082 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-12:19:03.626 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-12:19:04.292 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-12:19:04.519 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-12:19:07.092 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-12:19:09.106 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Method called:addNewCustomer
-12:19:09.515 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd customerName
-12:19:09.805 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - clicked male
-12:19:10.397 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd f_date
-12:19:11.340 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd address
-12:19:11.971 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd city
-12:19:12.604 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd state
-12:19:13.152 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd pincode
-12:19:13.786 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd phonenumber
-12:19:14.441 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd emaiId
-12:19:17.035 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - clicked Submit
-12:19:17.307 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-12:19:47.281 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-12:19:47.830 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-12:19:47.916 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Driver shutdown
-12:23:33.218 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Base class started...
-12:23:33.225 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 1
-12:23:33.226 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 2
-12:23:33.238 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 3
-12:23:35.569 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Chrome driver selected
-12:23:36.671 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login page started
-12:23:36.684 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Maximize the window
-12:23:36.748 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login user Email: mngr574561 and Password: unUzejA
-12:23:36.749 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-12:23:37.153 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-12:23:37.733 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-12:23:38.537 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-12:23:38.760 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-12:23:41.307 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-12:23:43.338 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Method called:addNewCustomer
-12:23:43.747 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd customerName
-12:23:44.053 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - clicked male
-12:23:44.658 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd f_date
-12:23:45.548 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd address
-12:23:46.132 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd city
-12:23:46.712 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd state
-12:23:47.384 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd pincode
-12:23:48.020 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd phonenumber
-12:23:48.611 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd emaiId
-12:23:49.898 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - clicked Submit
-12:23:50.321 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-12:24:20.508 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Logout Exception: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Log out']' (tried for 30 second(s) with 500 milliseconds interval)
-12:24:20.597 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Driver shutdown
-12:26:30.744 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Base class started...
-12:26:30.751 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 1
-12:26:30.751 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 2
-12:26:30.762 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - 3
-12:26:32.898 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Chrome driver selected
-12:26:34.485 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login page started
-12:26:34.494 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Maximize the window
-12:26:34.569 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Login user Email: mngr574561 and Password: unUzejA
-12:26:34.569 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
-12:26:34.948 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
-12:26:35.566 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
-12:26:36.239 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
-12:26:36.717 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
-12:26:39.593 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewCustomer
-12:26:41.606 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Method called:addNewCustomer
-12:26:41.997 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd customerName
-12:26:42.255 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - clicked male
-12:26:42.837 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd f_date
-12:26:43.569 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd address
-12:26:44.196 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd city
-12:26:44.859 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd state
-12:26:45.456 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd pincode
-12:26:46.025 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd phonenumber
-12:26:46.684 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - Enteterd emaiId
-12:26:48.013 [main] INFO  com.guru99bankProject.pageObject.PO_NewCustomer - clicked Submit
-12:26:50.383 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
-12:26:53.544 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
-12:26:54.088 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
-12:26:54.180 [main] INFO  com.guru99bankProject.testCases.TC_AddNewCustomer - Driver shutdown
+12:28:48.455 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+12:28:48.577 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Driver shutdown
+12:30:21.705 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Base class started...
+12:30:21.712 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 1
+12:30:21.713 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 2
+12:30:21.725 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 3
+12:30:24.130 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Chrome driver selected
+12:30:25.617 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login page started
+12:30:25.635 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Maximize the window
+12:30:25.707 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login user Email: mngr574561 and Password: unUzejA
+12:30:25.707 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+12:30:26.047 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+12:30:26.583 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+12:30:26.904 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+12:30:27.124 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - !!!LOGIN FAILED!!!
+12:30:27.278 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Driver shutdown
+12:30:42.294 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Base class started...
+12:30:42.303 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 1
+12:30:42.304 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 2
+12:30:42.317 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 3
+12:30:44.428 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Chrome driver selected
+12:30:44.913 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login page started
+12:30:44.926 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Maximize the window
+12:30:44.995 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login user Email: mngr574561 and Password: unUzejA
+12:30:44.995 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+12:30:45.386 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+12:30:45.990 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+12:30:46.724 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+12:30:46.960 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+12:30:49.870 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
+12:30:53.424 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
+12:30:55.445 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - Method called:addNewAccount
+12:30:55.791 [main] INFO  com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement - Enteterd customerId
+12:30:56.281 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+12:30:59.078 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+12:30:59.627 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+12:30:59.712 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Driver shutdown
+12:32:42.144 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Base class started...
+12:32:42.150 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 1
+12:32:42.150 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 2
+12:32:42.161 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 3
+12:32:44.394 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Chrome driver selected
+12:32:45.687 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login page started
+12:32:45.698 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Maximize the window
+12:32:45.766 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login user Email: mngr574561 and Password: unUzejA
+12:32:45.766 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+12:32:46.179 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+12:32:46.768 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+12:32:48.297 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+12:32:48.521 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+12:32:51.462 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
+12:32:56.327 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
+12:32:58.349 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - Method called:addNewAccount
+12:32:58.739 [main] INFO  com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement - Enteterd customerId
+12:32:59.060 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - clicked accountType
+12:32:59.933 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - Enteterd initialDeposite
+12:33:00.608 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - clicked Submit2
+12:33:02.987 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+12:33:06.786 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+12:33:07.317 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+12:33:07.392 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Driver shutdown
+14:01:20.201 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Base class started...
+14:01:20.213 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 1
+14:01:20.214 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 2
+14:01:20.233 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - 3
+14:01:24.014 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Chrome driver selected
+14:01:27.278 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login page started
+14:01:27.292 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Maximize the window
+14:01:27.365 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Login user Email: mngr574561 and Password: unUzejA
+14:01:27.366 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+14:01:27.784 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+14:01:28.348 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+14:01:29.557 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+14:01:29.772 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+14:01:33.023 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
+14:01:38.324 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuNewAccount
+14:01:40.345 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - Method called:addNewAccount
+14:01:40.705 [main] INFO  com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement - Enteterd customerId
+14:01:41.024 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - clicked accountType
+14:01:41.984 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - Enteterd initialDeposite
+14:01:42.604 [main] INFO  com.guru99bankProject.pageObject.PO_NewAccount - clicked Submit2
+14:01:45.001 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+14:01:48.804 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+14:01:49.360 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+14:01:49.458 [main] INFO  com.guru99bankProject.testCases.TC_AddNewAccount - Driver shutdown
+14:15:48.019 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Base class started...
+14:15:48.026 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 1
+14:15:48.028 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 2
+14:15:48.038 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 3
+14:15:50.697 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Chrome driver selected
+14:16:31.229 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Base class started...
+14:16:31.236 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 1
+14:16:31.236 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 2
+14:16:31.249 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 3
+14:16:33.347 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Chrome driver selected
+14:16:35.481 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Login page started
+14:16:35.495 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Maximize the window
+14:16:35.568 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Login user Email: mngr574561 and Password: unUzejA
+14:16:35.569 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+14:16:36.020 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+14:16:36.652 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+14:16:42.495 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+14:16:42.744 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+14:16:48.368 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
+14:16:53.409 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditAccount
+14:16:55.424 [main] INFO  com.guru99bankProject.pageObject.PO_EditAccount - Method called:editAccount
+14:16:55.849 [main] INFO  com.guru99bankProject.pageObject.PO_EditAccount - Enteterd accountNumber
+14:16:58.136 [main] INFO  com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement - clicked Submit
+14:17:00.516 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+14:17:03.671 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+14:17:04.207 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+14:17:04.291 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Driver shutdown
+14:23:08.383 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Base class started...
+14:23:08.391 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 1
+14:23:08.391 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 2
+14:23:08.415 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - 3
+14:23:11.346 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Chrome driver selected
+14:23:12.939 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Login page started
+14:23:12.954 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Maximize the window
+14:23:13.030 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Login user Email: mngr574561 and Password: unUzejA
+14:23:13.031 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Method called Login: Login
+14:23:13.489 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Enteterd userId
+14:23:14.016 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - Entered password
+14:23:15.277 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - clicke on login submit button
+14:23:15.526 [main] INFO  com.guru99bankProject.pageObject.PO_LoginPage - ...LOGIN DONE...
+14:23:18.404 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuDeleteAccount
+14:23:21.277 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the menuEditAccount
+14:23:23.310 [main] INFO  com.guru99bankProject.pageObject.PO_EditAccount - Method called:editAccount
+14:23:23.676 [main] INFO  com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement - Enteterd accountNumber
+14:23:25.480 [main] INFO  com.guru99bankProject.ReUseAble.PageObject.ReUseAbleElement - clicked Submit
+14:23:27.884 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Method called: Logout
+14:23:30.688 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - Clicked on the Logout button 
+14:23:31.229 [main] INFO  com.guru99bankProject.pageObject.PO_HomePage - ... LOGOUT DONE ...
+14:23:31.310 [main] INFO  com.guru99bankProject.testCases.TC_EditAccount - Driver shutdown

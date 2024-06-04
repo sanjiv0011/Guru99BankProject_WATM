@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-03T12:26:30 IST" name="Suite" finished-at="2024-06-03T12:26:54 IST" duration-ms="23727">
+  <suite started-at="2024-06-04T14:23:07 IST" name="Suite" finished-at="2024-06-04T14:23:31 IST" duration-ms="23383">
     <groups>
     </groups>
-    <test started-at="2024-06-03T12:26:30 IST" name="Guru99BankProject" finished-at="2024-06-03T12:26:54 IST" duration-ms="23727">
-      <class name="com.guru99bankProject.testCases.TC_AddNewCustomer">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_AddNewCustomer@2cae1042]" started-at="2024-06-03T12:26:30 IST" name="Setup" finished-at="2024-06-03T12:26:34 IST" duration-ms="3767" status="PASS">
+    <test started-at="2024-06-04T14:23:07 IST" name="Guru99BankProject" finished-at="2024-06-04T14:23:31 IST" duration-ms="23383">
+      <class name="com.guru99bankProject.testCases.TC_EditAccount">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:08 IST" name="Setup" finished-at="2024-06-04T14:23:12 IST" duration-ms="4603" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method is-config="true" signature="Login(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_AddNewCustomer@2cae1042]" started-at="2024-06-03T12:26:34 IST" name="Login" finished-at="2024-06-03T12:26:36 IST" duration-ms="2216" status="PASS">
+        <test-method is-config="true" signature="Login(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:12 IST" name="Login" finished-at="2024-06-04T14:23:15 IST" duration-ms="2576" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="test_AddNewCustomer()[pri:1, instance:com.guru99bankProject.testCases.TC_AddNewCustomer@2cae1042]" started-at="2024-06-03T12:26:36 IST" name="test_AddNewCustomer" finished-at="2024-06-03T12:26:50 IST" duration-ms="13617" status="PASS">
+        <test-method signature="test_EditAccount()[pri:1, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:15 IST" name="test_EditAccount" finished-at="2024-06-04T14:23:27 IST" duration-ms="12294" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_AddNewCustomer -->
-        <test-method is-config="true" signature="Logout(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_AddNewCustomer@2cae1042]" started-at="2024-06-03T12:26:50 IST" name="Logout" finished-at="2024-06-03T12:26:54 IST" duration-ms="3727" status="PASS">
+        </test-method> <!-- test_EditAccount -->
+        <test-method is-config="true" signature="Logout(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:27 IST" name="Logout" finished-at="2024-06-04T14:23:31 IST" duration-ms="3359" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -44,11 +44,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logout -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.guru99bankProject.testCases.TC_AddNewCustomer@2cae1042]" started-at="2024-06-03T12:26:54 IST" name="Teardown" finished-at="2024-06-03T12:26:54 IST" duration-ms="63" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:31 IST" name="Teardown" finished-at="2024-06-04T14:23:31 IST" duration-ms="62" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
-      </class> <!-- com.guru99bankProject.testCases.TC_AddNewCustomer -->
+      </class> <!-- com.guru99bankProject.testCases.TC_EditAccount -->
     </test> <!-- Guru99BankProject -->
   </suite> <!-- Suite -->
 </testng-results>
