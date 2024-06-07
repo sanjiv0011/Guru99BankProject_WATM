@@ -3,16 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.p360.Main.testCases.TC_Main_Users">
+      <class name="com.guru99bankProject.testCases.TC_CustomizedStatement">
         <methods>
           <include name="Setup"/>
-          <include name="test_Main_ResumeMembership"/>
-          <include name="test_Main_PauseMembership"/>
           <include name="Login"/>
+          <include name="test_MiniStatement"/>
           <include name="Teardown"/>
           <include name="Logout"/>
         </methods>
-      </class> <!-- com.p360.Main.testCases.TC_Main_Users -->
+      </class> <!-- com.guru99bankProject.testCases.TC_CustomizedStatement -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

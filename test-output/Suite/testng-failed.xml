@@ -8,15 +8,15 @@
   </listeners>
   <test thread-count="1" name="Guru99BankProject(failed)">
     <classes>
-      <class name="com.guru99bankProject.testCases.TC_EditAccount">
+      <class name="com.guru99bankProject.testCases.TC_CustomizedStatement">
         <methods>
           <include name="Setup"/>
-          <include name="test_AddNewCustomer"/>
           <include name="Login"/>
+          <include name="test_MiniStatement"/>
           <include name="Teardown"/>
           <include name="Logout"/>
         </methods>
-      </class> <!-- com.guru99bankProject.testCases.TC_EditAccount -->
+      </class> <!-- com.guru99bankProject.testCases.TC_CustomizedStatement -->
     </classes>
   </test> <!-- Guru99BankProject(failed) -->
 </suite> <!-- Failed suite [Suite] -->

@@ -1,22 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="1" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <parameter name="browser" value="chrome"/>
-  <parameter name="loginUserType" value="user"/>
-  <listeners>
-    <listener class-name="com.guru99bankProject.utilities.ExtentReport"/>
-  </listeners>
-  <test thread-count="1" name="Guru99BankProject(failed)">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.guru99bankProject.testCases.TC_EditAccount">
+      <class name="com.guru99bankProject.testCases.TC_CustomizedStatement">
         <methods>
           <include name="Setup"/>
-          <include name="test_AddNewCustomer"/>
           <include name="Login"/>
+          <include name="test_MiniStatement"/>
           <include name="Teardown"/>
           <include name="Logout"/>
         </methods>
-      </class> <!-- com.guru99bankProject.testCases.TC_EditAccount -->
+      </class> <!-- com.guru99bankProject.testCases.TC_CustomizedStatement -->
     </classes>
-  </test> <!-- Guru99BankProject(failed) -->
-</suite> <!-- Failed suite [Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

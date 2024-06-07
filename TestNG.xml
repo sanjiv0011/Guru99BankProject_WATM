@@ -25,12 +25,16 @@
 			<!--<class name="com.guru99bankProject.testCases.TC_EditCustomer" />-->
 
 			<!--<class name="com.guru99bankProject.testCases.TC_DeleteCustomer" />-->
-			
+
 			<!--<class name="com.guru99bankProject.testCases.TC_AddNewAccount" />-->
-			
-			<class name="com.guru99bankProject.testCases.TC_EditAccount" />
-			
-			
+
+			<!--<class name="com.guru99bankProject.testCases.TC_EditAccount" />-->
+
+			<!--<class name="com.guru99bankProject.testCases.TC_MiniStatement" />-->
+
+			<class name="com.guru99bankProject.testCases.TC_CustomizedStatement" />
+
+
 		</classes>
 
 	</test> <!--

@@ -1,54 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="0" failed="0" skipped="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-04T14:23:07 IST" name="Suite" finished-at="2024-06-04T14:23:31 IST" duration-ms="23383">
+  <suite started-at="2024-06-07T12:30:56 IST" name="Default suite" finished-at="2024-06-07T12:30:56 IST" duration-ms="61">
     <groups>
     </groups>
-    <test started-at="2024-06-04T14:23:07 IST" name="Guru99BankProject" finished-at="2024-06-04T14:23:31 IST" duration-ms="23383">
-      <class name="com.guru99bankProject.testCases.TC_EditAccount">
-        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:08 IST" name="Setup" finished-at="2024-06-04T14:23:12 IST" duration-ms="4603" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[chrome]]>
-              </value>
-            </param>
-          </params>
+    <test started-at="2024-06-07T12:30:56 IST" name="Default test" finished-at="2024-06-07T12:30:56 IST" duration-ms="61">
+      <class name="com.guru99bankProject.testCases.TC_CustomizedStatement">
+        <test-method is-config="true" signature="Setup(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_CustomizedStatement@34997338]" started-at="2024-06-07T12:30:56 IST" name="Setup" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1717743656113" status="FAIL">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by BeforeTest on method Setup but has not been marked @Optional or defined
+in C:\Users\User\AppData\Local\Temp\testng-eclipse--839973028\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeTest on method Setup but has not been marked @Optional or defined
+in C:\Users\User\AppData\Local\Temp\testng-eclipse--839973028\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:270)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
+at org.testng.TestRunner.beforeRun(TestRunner.java:627)
+at org.testng.TestRunner.run(TestRunner.java:589)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Setup -->
-        <test-method is-config="true" signature="Login(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:12 IST" name="Login" finished-at="2024-06-04T14:23:15 IST" duration-ms="2576" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[user]]>
-              </value>
-            </param>
-          </params>
+        <test-method is-config="true" signature="Login(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_CustomizedStatement@34997338]" started-at="2024-06-07T12:30:56 IST" name="Login" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1717743656140" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method signature="test_EditAccount()[pri:1, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:15 IST" name="test_EditAccount" finished-at="2024-06-04T14:23:27 IST" duration-ms="12294" status="PASS">
+        <test-method signature="test_MiniStatement()[pri:1, instance:com.guru99bankProject.testCases.TC_CustomizedStatement@34997338]" started-at="2024-06-07T12:30:56 IST" name="test_MiniStatement" finished-at="2024-06-07T12:30:56 IST" duration-ms="0" status="SKIP">
+          <exception class="org.testng.TestNGException">
+            <message>
+              <![CDATA[
+Parameter 'browser' is required by BeforeTest on method Setup but has not been marked @Optional or defined
+in C:\Users\User\AppData\Local\Temp\testng-eclipse--839973028\testng-customsuite.xml]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.TestNGException: 
+Parameter 'browser' is required by BeforeTest on method Setup but has not been marked @Optional or defined
+in C:\Users\User\AppData\Local\Temp\testng-eclipse--839973028\testng-customsuite.xml
+at org.testng.internal.Parameters.createParams(Parameters.java:270)
+at org.testng.internal.Parameters.createParametersForMethod(Parameters.java:358)
+at org.testng.internal.Parameters.createParameters(Parameters.java:700)
+at org.testng.internal.Parameters.createConfigurationParameters(Parameters.java:168)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:302)
+at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:637)
+at org.testng.TestRunner.beforeRun(TestRunner.java:627)
+at org.testng.TestRunner.run(TestRunner.java:589)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.TestNGException -->
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- test_EditAccount -->
-        <test-method is-config="true" signature="Logout(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:27 IST" name="Logout" finished-at="2024-06-04T14:23:31 IST" duration-ms="3359" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[user]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- test_MiniStatement -->
+        <test-method is-config="true" signature="Logout(java.lang.String)[pri:0, instance:com.guru99bankProject.testCases.TC_CustomizedStatement@34997338]" started-at="2024-06-07T12:30:56 IST" name="Logout" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1717743656162" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Logout -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.guru99bankProject.testCases.TC_EditAccount@2cae1042]" started-at="2024-06-04T14:23:31 IST" name="Teardown" finished-at="2024-06-04T14:23:31 IST" duration-ms="62" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:com.guru99bankProject.testCases.TC_CustomizedStatement@34997338]" started-at="2024-06-07T12:30:56 IST" name="Teardown" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1717743656166" status="SKIP">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->
-      </class> <!-- com.guru99bankProject.testCases.TC_EditAccount -->
-    </test> <!-- Guru99BankProject -->
-  </suite> <!-- Suite -->
+      </class> <!-- com.guru99bankProject.testCases.TC_CustomizedStatement -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
